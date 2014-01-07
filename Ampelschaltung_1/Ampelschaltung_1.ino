@@ -1,3 +1,4 @@
+// Test ob gitHub funktioniert
 #define DELAY1 10000  //Pause 1 für 10 sekunden
 #define DELAY2 2000  //Pause 2 für 2 Sekunden
 #define DELAY3 3000  //Pause 3 für 3 Sekunden
